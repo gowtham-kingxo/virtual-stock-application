@@ -1,0 +1,1 @@
+{"portfolioName":"GOWT","stocks":[{"tickerSymbol":"AABA","numberOfShares":3,"buyDate":{"year":2018,"month":12,"day":31},"priceOfUnitShare":57.94,"commissionFee":45.0}],"uniqueStocksOfAPortfolio":["AABA"],"strategies":[]}
